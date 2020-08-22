@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoPract</string>
+    <string name="no_data_found">No data found in chache, required internet...</string>
+</resources>
